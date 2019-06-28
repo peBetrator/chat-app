@@ -1,6 +1,6 @@
 import React from "react";
-import Messages from "./Messages";
-import Input from "./Input";
+import Messages from "./components/Messages";
+import Input from "./components/Input";
 
 /** TODO
  * 1) Display who's online
